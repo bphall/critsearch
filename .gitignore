@@ -1,0 +1,6 @@
+lib
+bin
+include
+pyvenv.cfg
+.ipynb_checkpoints
+critscrape.ipynb

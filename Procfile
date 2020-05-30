@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run prosify.py
+web: sh setup.sh && streamlit run search.py

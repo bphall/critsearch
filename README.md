@@ -2,4 +2,4 @@ The purpose of this mini-project was to implement a search engine for content on
 
 The actual engine is fairly simple, and uses TD-IDF in sklearn to produce sparse matrix representations of each film's summary. Thus, this engine promotes results bases on exact word (though not phrase, such as bigram or trigram) matches, as opposed to connotation matches that use word embeddings, or deep-learned models such as Google's BERT. 
 
-The live app and front end can be accessed [http://critsearch.herokuapp.com/](here).
+The app can be accessed [here](http://critsearch.herokuapp.com/).
